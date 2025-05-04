@@ -1,6 +1,6 @@
 # Syberia: The World Before Fix
 
-[![GitHub All Releases](https://img.shields.io/github/downloads/Lyall/SyberiaTWBFix/total.svg)](https://github.com/Lyall/SyberiaTWBFix/releases) [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W01UAI9)
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W01UAI9) [![GitHub All Releases](https://img.shields.io/github/downloads/Lyall/SyberiaTWBFix/total.svg)](https://github.com/Lyall/SyberiaTWBFix/releases)
 
 ## Overview
 This MelonLoader mod enables **Syberia (4): The World Before** to:
